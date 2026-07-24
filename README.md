@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AkshatSingh-90056/Competitive-Programming/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 
 ### greedy
 
@@ -27,6 +34,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AkshatSingh-90056/Competitive-Programming/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 | 2154A | [Notelock](https://codeforces.com/contest/2154/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AkshatSingh-90056/Competitive-Programming/blob/HEAD/2154/A%20-%20Notelock/solution.cpp) |
 
 ---
