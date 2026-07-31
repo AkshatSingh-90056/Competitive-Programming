@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 5 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (2)
 - [strings](#strings) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -49,6 +49,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AkshatSingh-90056/Competitive-Programming/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.cpp) |
 | 2025A | [Two Screens](https://codeforces.com/contest/2025/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AkshatSingh-90056/Competitive-Programming/blob/HEAD/2025/A%20-%20Two%20Screens/solution.cpp) |
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AkshatSingh-90056/Competitive-Programming/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 | 2154A | [Notelock](https://codeforces.com/contest/2154/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AkshatSingh-90056/Competitive-Programming/blob/HEAD/2154/A%20-%20Notelock/solution.cpp) |
